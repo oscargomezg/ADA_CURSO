@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\ogomezg\Desktop\Archivos Oscar\ADA_CURSO\02iterativas\iteraciones.gpr
+20221014070852 e6a2bd48f4c7846d2906ff8673c4c8a3
+[BOUND OBJECT FILES]
+C:\Users\ogomezg\Desktop\Archivos Oscar\ADA_CURSO\02iterativas\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\ogomezg\Desktop\Archivos Oscar\ADA_CURSO\02iterativas\obj\
+-LC:\Users\ogomezg\Desktop\Archivos Oscar\ADA_CURSO\02iterativas\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
