@@ -1,0 +1,31 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U magnitudes%b		magnitudes.adb		4689a392 NE OO PK
+
+U magnitudes%s		magnitudes.ads		389acd11 EE NE OO PK
+
+D magnitudes.ads	20221021072924 389acd11 magnitudes%s
+D magnitudes.adb	20221021074308 7e136e83 magnitudes%b
+D system.ads		20210520051136 2ffa5114 system%s
+G a e
+G c Z s b [calcula_posicion_mrua magnitudes 8 13 none]
+X 1 magnitudes.ads
+1K9*Magnitudes 14l5 14e15 2|1b14 18l5 18t15
+3F12*Distancia{float} 9r27 12r46 2|9r27 12r49
+4F12*Velocidad{float} 10r25 2|10r28
+5F12*Tiempo{float} 11r27 2|11r30
+6F12*Aceleracion{float} 12r26 2|12r29
+8V13*Calcula_Posicion_MRUA{3F12} 9>7 10>7 11>7 12>7 2|8b13 17l11 17t32
+9f7 Posicion_Inicial{3F12} 2|9b7 15r14
+10f7 Velocidad_Inicial{4F12} 2|10b7 15r32
+11f7 Tiempo_Transcurrido{5F12} 2|11b7 15r50 15r107
+12f7 Aceleracion_Lineal{6F12} 2|12b7 15r86
+

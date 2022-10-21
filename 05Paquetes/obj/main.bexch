@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\05Paquetes\paquetes.gpr
+20221019072342 fc26d66424925d50a2554d7bf7a431ea
+[BOUND OBJECT FILES]
+C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\05Paquetes\obj\constantes.o
+C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\05Paquetes\obj\io.o
+C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\05Paquetes\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\05Paquetes\obj\
+-LC:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\05Paquetes\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
