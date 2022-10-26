@@ -1,10 +1,66 @@
 <?xml version="1.0"?>
-<Locations>
+<Locations >
   <Project>
-    <vfs_file />
-    <file_marker current="true" column=" 4" line=" 3" >
+    <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_file>
+    <file_marker column=" 4" line=" 16" >
       <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
       <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\magnitudes.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\magnitudes.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\magnitudes.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 50" line=" 32" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 22" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 15" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\magnitudes.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 17" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\magnitudes.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 15" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\magnitudes.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 14" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\magnitudes.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 69" line=" 15" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\magnitudes.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\magnitudes.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 6" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\magnitudes.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 82" line=" 15" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\magnitudes.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 50" line=" 32" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\fisica.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\07EjercicioFisica\src\main.adb</vfs_file>
     </file_marker>
   </Project>
 </Locations>

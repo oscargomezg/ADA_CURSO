@@ -1,0 +1,2 @@
+main.adb:126:18: error: array type required in indexed component
+main.adb:128:61: error: invalid operand types for operator "&"

@@ -1,0 +1,17 @@
+float_array.adb:5:12: error: "Array_Float" conflicts with declaration at float_array.ads:5
+float_array.adb:9:16: error: not type conformant with declaration at float_array.ads:9
+float_array.adb:9:16: error: return type does not match
+float_array.adb:11:12: error: "Generator" is undefined
+float_array.adb:15:21: error: "Random" is undefined
+float_array.adb:23:33: error: not type conformant with declaration at float_array.ads:12
+float_array.adb:23:33: error: type of "Random_Array" does not match
+float_array.adb:33:28: error: not type conformant with declaration at float_array.ads:15
+float_array.adb:33:28: error: type of "Random_Array" does not match
+float_array.adb:41:31: error: not type conformant with declaration at float_array.ads:18
+float_array.adb:41:31: error: type of "Random_Array" does not match
+float_array.adb:44:13: error: "Put" is undefined
+float_array.adb:44:13: error: possible missing "with Ada.Text_IO; use Ada.Text_IO"
+float_array.adb:45:13: error: "Put_Line" is undefined
+float_array.adb:45:13: error: possible missing "with Ada.Text_IO; use Ada.Text_IO"
+float_array.adb:51:16: error: not type conformant with declaration at float_array.ads:21
+float_array.adb:51:16: error: return type does not match

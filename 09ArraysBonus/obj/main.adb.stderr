@@ -1,0 +1,5 @@
+main.adb:4:06: error: circular unit dependency
+main.adb:4:06: error: "Main (body)" depends on "Float_Array (spec)"
+main.adb:4:06: error: "Float_Array (spec)" depends on "Float_Array (body)"
+main.adb:4:06: error: "Float_Array (body)" depends on "Float_Array (spec)"
+main.adb:4:06: error: "Float_Array (spec)" depends on "Float_Array (spec)"
