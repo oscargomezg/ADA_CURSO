@@ -1,0 +1,90 @@
+V "GNAT Lib v2021"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_FIXED_POINT
+RV NO_IO
+RV NO_LONG_LONG_INTEGERS
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_IMPLICIT_LOOPS
+
+U main%b		main.adb		f708c723 NE OO SU
+W ada%s			ada.ads			ada.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z system.concat_5%s	s-conca5.adb		s-conca5.ali
+Z system.img_int%s	s-imgint.ads		s-imgint.ali
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-except.ads		20210520051128 946f3014 ada.exceptions%s
+D a-ioexce.ads		20210520051128 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20210520051130 119b8fb3 ada.streams%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051130 9eaa38c6 ada.tags%s
+D a-textio.ads		20210520051130 aef4d56d ada.text_io%s
+D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
+D interfac.ads		20210520051132 edec285f interfaces%s
+D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
+D main.adb		20221028075436 59fc124e main%b
+D system.ads		20210520051136 2ffa5114 system%s
+D s-conca5.ads		20210520051132 875e432e system.concat_5%s
+D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
+D s-exctab.ads		20210520051132 54135002 system.exception_table%s
+D s-ficobl.ads		20210520051132 078245e4 system.file_control_block%s
+D s-imagei.ads		20210520051134 0d3f86a7 system.image_i%s
+D s-imgint.ads		20210520051134 bdb6f5ec system.img_int%s
+D s-parame.ads		20210520051134 4752c4cb system.parameters%s
+D s-putima.ads		20210520051134 4e095881 system.put_images%s
+D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051134 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051134 a37c21ec system.stack_checking%s
+D s-stalib.ads		20210520051134 472fbca8 system.standard_library%s
+D s-stoele.ads		20210520051134 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051134 ed88f8fb system.storage_elements%b
+D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
+D s-wchcon.ads		20210520051136 1b7d22d2 system.wch_con%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z b b [main standard 3 11 none]
+X 1 ada.ads
+16K9*Ada 20e8 13|1r6 1r22
+X 9 a-textio.ads
+58K13*Text_IO 725e16 13|1w10 1r26
+506U14*Put_Line 13|39s4 41s4
+X 13 main.adb
+3U11*Main 3b11 42l5 42t9
+4i4 Default_Max_Jugadores{integer} 8r72
+5i4 Default_Min_Jugadores{integer} 8r49
+7E9 Equipos 7e76 15r21 16r18
+7n20 Real_Madrid{7E9}
+7n33 Barsa{7E9}
+7n40 Betis{7E9}
+7n47 Villarreal{7E9}
+7n59 Getafe{7E9}
+7n67 Atletico{7E9}
+8I9 Cantidad_Jugadores<integer> 12r7 13r7 27r64 27r107 28r11
+9I9 Sueldo<long_long_integer> 21r17 22r17
+10D9 Metros_Segundo 24r22 25r20
+12i4 C1{8I9} 37m4 39r22 40m28 40r28 41r22
+13i4 C2{8I9} 38m4 39r38 40m31 40r31 41r38
+15e4 Equipo_Favorito{7E9}
+16e4 Equipo_Odiado{7E9}
+18i4 NumeroA{natural}
+19i4 NumeroB{natural}
+21i4 Sueldo_Messi{9I9}
+22i4 Sueldo_Tesla{9I9}
+24d4 Velocidad_Inicial{10D9}
+25d4 Velocidad_Final{10D9}
+27U14 Swap_Cantidad_Jugadores 27b14 27=39 27=83 33l8 33t31 40s4
+27i39 Cantidad_Equipo1{8I9} 30r12 31m7
+27i83 Cantidad_Equipo2{8I9} 31r25 32m7
+28i7 Aux{8I9} 30m7 32r25
+

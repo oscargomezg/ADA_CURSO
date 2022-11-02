@@ -1,18 +1,26 @@
 <?xml version="1.0"?>
 <Locations >
   <Project>
-    <vfs_file />
+    <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\EjercicioArraysRecords\ejercicioarraysrecords.gpr</vfs_file>
     <file_marker column=" 1" line=" 1" >
       <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\EjercicioArraysRecords\ejercicioarraysrecords.gpr</vfs_project>
       <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\EjercicioArraysRecords\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 3" >
+    <file_marker column=" 1" line=" 4" >
       <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\EjercicioArraysRecords\ejercicioarraysrecords.gpr</vfs_project>
       <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\EjercicioArraysRecords\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 4" line=" 3" >
+    <file_marker column=" 4" line=" 3" >
       <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\EjercicioArraysRecords\ejercicioarraysrecords.gpr</vfs_project>
       <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\EjercicioArraysRecords\src\helper.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\EjercicioArraysRecords\ejercicioarraysrecords.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\EjercicioArraysRecords\src\helper.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\EjercicioArraysRecords\ejercicioarraysrecords.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\EjercicioArraysRecords\src\main.adb</vfs_file>
     </file_marker>
   </Project>
 </Locations>

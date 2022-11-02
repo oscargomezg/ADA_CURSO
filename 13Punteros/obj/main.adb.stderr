@@ -1,0 +1,2 @@
+main.adb:110:01: error: statement expected
+main.adb:111:01: error: "end;" expected for "begin" at line 66

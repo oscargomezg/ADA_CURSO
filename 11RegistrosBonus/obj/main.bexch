@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\11RegistrosBonus\registrosbonus.gpr
+20221027062032 85ddc5de8e42e3083243fd2f7eb57065
+[BOUND OBJECT FILES]
+C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\11RegistrosBonus\obj\io.o
+C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\11RegistrosBonus\obj\jugador.o
+C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\11RegistrosBonus\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\11RegistrosBonus\obj\
+-LC:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\11RegistrosBonus\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
