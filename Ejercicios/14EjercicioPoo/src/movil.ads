@@ -12,6 +12,7 @@ package movil is
       Velocidad_X:=0.0;
       Velocidad_Y:=0.0;
    end record;
+   type 
    
    function Get_Posicion_X(This:Avion) return Float;
    function Get_Posicion_Y(This:Avion) return Float;

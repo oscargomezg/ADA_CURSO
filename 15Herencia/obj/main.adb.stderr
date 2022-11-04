@@ -1,0 +1,3 @@
+main.adb:18:16: error: unconstrained subtype not allowed (need initialization)
+main.adb:18:16: error: provide initial value or explicit array bounds
+main.adb:25:20: error: prefix for "Range" attribute must be constrained array

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Locations >
   <Project>
-    <vfs_file />
+    <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\14EjercicioPoo\poo.gpr</vfs_file>
     <file_marker column=" 1" line=" 1" >
       <vfs_project />
       <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\14Objetos\src\main.adb</vfs_file>
@@ -122,9 +122,13 @@
       <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\14EjercicioPoo\poo.gpr</vfs_project>
       <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\14EjercicioPoo\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 4" line=" 3" >
+    <file_marker column=" 4" line=" 3" >
       <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\14EjercicioPoo\poo.gpr</vfs_project>
       <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\14EjercicioPoo\src\movil.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 3" >
+      <vfs_project>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\14EjercicioPoo\poo.gpr</vfs_project>
+      <vfs_file>C:\Users\ogomezg\Desktop\ArchivosOscar\ADA_CURSO\Ejercicios\14EjercicioPoo\src\movil.ads</vfs_file>
     </file_marker>
   </Project>
 </Locations>
